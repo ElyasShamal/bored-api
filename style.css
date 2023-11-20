@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: whitesmoke;
+}
+
+.main {
+  min-height: 50vh;
+  background-color: white;
+  width: 50%;
+  border-radius: 20px;
+  margin: 10px auto;
+}
+
+.container {
+  text-align: center;
+  margin: 20% auto;
+}
+
+.title {
+  padding-top: 20px;
+  color: orangered;
+}
+span {
+  font-size: 30px;
+  color: springgreen;
+}
+
+#data-container {
+  height: 200px;
+  width: 90%;
+  margin: 20px 30px;
+  text-align: center;
+}
+
+#btn {
+  padding: 8px 30px;
+}
+
+.h3 {
+  padding: 30px;
+  text-transform: capitalize;
+}
+
+.paragragh {
+  font-size: 25px;
+}
